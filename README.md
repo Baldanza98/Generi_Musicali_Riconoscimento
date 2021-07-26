@@ -1,4 +1,4 @@
-# GENERI MUSICALI: STORIA E RICONOSCIMENTO TRAMITE IL MACHINE LEARNING
+# GENERI MUSICALI: STORIA E RICONOSCIMENTO TRAMITE IL MACHINE LEARNING 
 
 *I due obbiettivi del lavoro sono i seguenti:*
 
@@ -7,3 +7,5 @@
 per applicazioni atte al riconoscimento audio (per esempio Shazam) 
 
 **Il report è sotto forma di pdf ed è disponibile anche il codice R**
+
+*Lavoro svolto con Masi Filippo e Zanotta Alessando, nel report è riportata la varia suddivisione dei lavori*
